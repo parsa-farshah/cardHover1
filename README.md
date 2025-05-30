@@ -19,4 +19,4 @@ Frontend Developer
 
 ## 📬 How to Reach Me  
 - [Online Demo : ]([https://parsa-farshah.github.io/cardHover1/cardHover1/index.html](https://www.instagram.com/parsa_dehghanpour_dv?igsh=eHkwNWhsa3I4ZWVp)) 
-- LinkedIn: your_username
+- LinkedIn: (https://www.linkedin.com/in/parsa-dehghan-pour-farashah-85ab04250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
