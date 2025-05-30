@@ -21,3 +21,5 @@ Frontend Developer
 - Instagram: [@parsa_dehghanpour_dv](https://www.instagram.com/parsa_dehghanpour_dv?igsh=eHkwNWhsa3I4ZWVp)  
 - LinkedIn: [Parsa Dehghan Pour Farashah](https://www.linkedin.com/in/parsa-dehghan-pour-farashah-85ab04250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+
+![Project Screenshot](cardHover.png)
