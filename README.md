@@ -1,25 +1,22 @@
-
-. [online demo]([https://pages.github.com/](https://parsa-farshah.github.io/cardHover1/cardHover1/index.html)
-
 # Frontend Project
 
 A simple frontend project developed using HTML and CSS.
 
-## 📅 Created On
+## 📅 Created On  
 May 30, 2025
 
-## 👨‍💻 Developed By
+## 👨‍💻 Developed By  
 Parsa Dehghan Pour Farashah
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
+## 🛠️ Technologies Used  
+- HTML  
+- CSS  
 
-## 🎯 Role
+## 🎯 Role  
 Frontend Developer
 
-## 📬 How to Reach Me
-- [Instagram](https://www.instagram.com/your_username)  
-- [LinkedIn](https://www.linkedin.com/in/your_username)
+## 🔗 [Online Demo](https://parsa-farshah.github.io/cardHover1/cardHover1/index.html)
 
----
+## 📬 How to Reach Me  
+- Instagram: your_username  
+- LinkedIn: your_username
